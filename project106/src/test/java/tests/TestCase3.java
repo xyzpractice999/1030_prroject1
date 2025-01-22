@@ -10,7 +10,7 @@ import org.openqa.selenium.By;
 
 import static utils.BrowserUtils.*;
 
-public class TestCase2 {
+public class TestCase3 {
 
 
 	@Test

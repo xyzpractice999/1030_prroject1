@@ -21,6 +21,7 @@ public class TestCase1 {
 		performSearch();
 		verifySerachIsSuccessfull();
 		killBrower();
+		killBrower();
 	}
 
 	private void loadConfigurations() throws Exception, IOException {

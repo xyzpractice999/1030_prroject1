@@ -23,6 +23,7 @@ public class TestCase1 {
 		killBrower();
 	
 	}
+	
 
 	private void loadConfigurations() throws Exception, IOException {
 		String path = System.getProperty("user.dir") + "/src/main/resources/config/global.properties";

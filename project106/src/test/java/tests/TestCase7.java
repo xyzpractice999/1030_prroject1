@@ -10,7 +10,7 @@ import org.openqa.selenium.By;
 
 import static utils.BrowserUtils.*;
 
-public class TestCase5 {
+public class TestCase7 {
 
 
 	@Test
@@ -18,8 +18,8 @@ public class TestCase5 {
 		loadConfigurations();
 		openBrowser();
 		invokeApp();
+		performSearch();
 		verifySerachIsSuccessfull();
-		killBrower();
 		killBrower();
 	
 	}
